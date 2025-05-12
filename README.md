@@ -1,6 +1,6 @@
 # 📊 RFM Analysis in Excel – Customer Segmentation Project Identifying High Value Shoppers
 
-This repository contains the code and files for the ShopLeft Mall Customer Segmentation Project. The full report and detailed documentation are available [here](https://medium.com/@UjuEmmanuella/rfm-analysis-in-excel-a-complete-guide-to-customer-segmentation-a0518ccf094c).
+This repository houses key files and documentation for ShopLeft Mall Customer Segmentation Project. You can find the comprehensive report and in-depth documentation on Medium. [here](https://medium.com/@UjuEmmanuella/rfm-analysis-in-excel-a-complete-guide-to-customer-segmentation-a0518ccf094c).
 
 
 ### 🔍 Project Overview
