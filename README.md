@@ -1,11 +1,11 @@
-# 📊 RFM Analysis in Excel – Customer Segmentation Project Identifying High Value Shoppers
+# 📊 RFM Analysis for Customer Segmentation: Identifying High-Value Shoppers using Microsoft Excel
 
-This repository houses key files and documentation for ShopLeft Mall Customer Segmentation Project. You can find the comprehensive report and in-depth documentation on Medium. [here](https://medium.com/@UjuEmmanuella/rfm-analysis-in-excel-a-complete-guide-to-customer-segmentation-a0518ccf094c).
+This repository houses key files and documentation for ShopLeft Mall Customer Segmentation Project . You can find the comprehensive report and in-depth documentation on Medium. [here](https://medium.com/@UjuEmmanuella/rfm-analysis-in-excel-a-complete-guide-to-customer-segmentation-a0518ccf094c).
 
 
 ### 🔍 Project Overview
 
-Used Microsoft Excel to perform an RFM (Recency, Frequency, Monetary) analysis on shopping mall data from 10,000 customers. This helped uncover customer segments and create actionable strategies to improve engagement, loyalty, and revenue.
+Used Microsoft Excel to perform an RFM (Recency, Frequency, Monetary) analysis on shopping mall data from 10,000 customers. This helped Identify customer segments and create actionable strategies to improve engagement, loyalty, and revenue.
 
 ---
 
