@@ -70,7 +70,8 @@ ShopLeft Mall struggled with:
 📖 **For the full breakdown with step-by-step visuals and formulas, check out the detailed Medium article here:**
 👉 [RFM Analysis in Excel – A Complete Guide to Customer Segmentation](https://medium.com/@UjuEmmanuella/rfm-analysis-in-excel-a-complete-guide-to-customer-segmentation-a0518ccf094c)
 
+![dashboard-preview](https://github.com/user-attachments/assets/051c3ef9-010c-4502-9612-c23289b6a0f8)
 
-[dashboard-preview](https://github.com/user-attachments/assets/4ec0cd48-d089-43ff-a3b4-71f2e8b79944)
+
 
 
