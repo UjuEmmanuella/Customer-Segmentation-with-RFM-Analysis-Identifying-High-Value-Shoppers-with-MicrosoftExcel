@@ -1,5 +1,3 @@
-![dashboard-preview](https://github.com/user-attachments/assets/20bc8d89-5f17-4561-ba04-c888dab2843b)
-![dashboard-preview](https://github.com/user-attachments/assets/d1e29e8b-cf80-4bd3-bdc0-34e9053756d9)
 # 📊 RFM Analysis for Customer Segmentation: Identifying High-Value Shoppers using Microsoft Excel
 
 This repository houses key files and documentation for ShopLeft Mall Customer Segmentation Project . You can find the comprehensive report and in-depth documentation on Medium [here](https://medium.com/@UjuEmmanuella/rfm-analysis-in-excel-a-complete-guide-to-customer-segmentation-a0518ccf094c).
@@ -70,7 +68,8 @@ ShopLeft Mall struggled with:
 📖 **For the full breakdown with step-by-step visuals and formulas, check out the detailed Medium article here:**
 👉 [RFM Analysis in Excel – A Complete Guide to Customer Segmentation](https://medium.com/@UjuEmmanuella/rfm-analysis-in-excel-a-complete-guide-to-customer-segmentation-a0518ccf094c)
 
-![dashboard-preview](https://github.com/user-attachments/assets/051c3ef9-010c-4502-9612-c23289b6a0f8)
+![Dashboard](RFM%20Analysis-Dashboard.png)
+
 
 
 
