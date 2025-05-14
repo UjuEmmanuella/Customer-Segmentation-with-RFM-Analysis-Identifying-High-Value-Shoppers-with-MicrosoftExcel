@@ -72,6 +72,8 @@ ShopLeft Mall struggled with:
 
 👉 [View the RFM Excel Workbook here](https://onedrive.live.com/edit?cid=2b8029fee5bfeef1&id=2B8029FEE5BFEEF1!sa309cefab1324e8397620a8cfcd41772&resid=2B8029FEE5BFEEF1!sa309cefab1324e8397620a8cfcd41772&ithint=file%2Cxlsx&embed=1&em=2&AllowTyping=True&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True%2CTrue&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8yYjgwMjlmZWU1YmZlZWYxL0lRVDZ)
 
+---
+
 ![Dashboard](RFM%20Analysis-Dashboard.png)
 
 
